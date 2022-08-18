@@ -1,0 +1,254 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fff url("img/cidade.jpg") repeat-x;
+}
+#container{
+  width: 750px;
+  margin: 0 auto;
+}
+/*CABEÇALHO*/
+header{
+  height: 140px;
+  background: #fff url("img/spForma.jpg") no-repeat right;
+  padding-top: 10px;
+}
+#logo{
+  width: 157px;
+  background: #fff url("img/bandeiraSP.jpg") no-repeat right center;
+  border-bottom: 3px solid #f23131;
+  border-image: linear-gradient(to right, #f23131 45%, black 50%) 1;
+}
+ul{
+  list-style: none;
+}
+nav li{
+  float: left;
+}
+header ul{
+  background: #d71919;
+  margin: 20px 0px 0px 235px;
+  float: left;
+}
+header ul a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9em;
+  padding: 0.5em 1.4em;
+  line-height: 2.1em;
+  border-right: 2px solid #aa0f0f;
+  display: block;
+  font-weight: bold;
+}
+header ul a:hover,
+body.home a#home,
+body.brasil a#brasil,
+body.internacional a#internacional{
+  background: #aa0f0f;
+}
+/*CONTEUDO*/
+main{
+  margin-top: 65px;
+}
+article,
+.caixa{
+  margin: 10px 0;
+  padding: 5px;
+  border: 3px dotted gray;
+}
+h4{
+  background: #d71919;
+  padding: 5px;
+  color: #fff;
+} 
+.caixaConteudo{
+  padding: 5px;
+}
+.caixaConteudo p{
+  line-height: 20px;
+}
+.caixaConteudo h3{
+  font-size:0.8em;
+  text-transform: uppercase;
+  padding: 3px;
+  color: #fff;
+  background: #aa0f0f;
+  text-align: center;
+}
+article img{
+  margin-top: 5px;
+  width: 245px;
+}
+.caixaConteudo a{
+  color: #aa0f0f;
+  font-weight: bold;
+}
+/*CONTEUDO*//*esquerda*//*Lista de noticias (Mundo)*/
+#listaNoticias li{
+  display: flex;
+  border-bottom: 1px solid gray;
+}
+#listaNoticias li a img{
+  float: left;
+  margin: 5px;
+  padding-top: 3px;
+  width: 84px;
+}
+#listaNoticias li a{
+  text-decoration: none;
+  font-size: 0.9em;
+}
+.descricaoMundo{
+  width: 150px;
+  float: right;
+  margin-top: 5px;
+}
+#listaNoticias li a p{
+  margin-top: 3px;
+  font-size: 0.9em;
+}
+#listaNoticias li:hover{
+  background: #eee;
+}
+/*CONTEUDO*//*lateral*/
+aside{
+  width: 180px;
+  float: left;
+  margin: 0 0 20px -750px;
+}
+aside ul li a{
+  font-size: 0.9em;
+  padding: 3px;
+  display: block;
+  line-height: 30px;
+  text-decoration: none;
+  border-bottom: 2px solid #f3f3f3;
+}
+aside ul a:hover{
+  background: url("img/seta.jpg") no-repeat left center;
+  padding-left: 20px;
+  color: #7a7a7a;
+  font-weight: bold;
+}
+label{
+  display: block;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+input{
+  font-size: 0.9em;
+  width: 125px;
+  padding: 5px;
+}
+input.cadastrar{
+  width: 80px;
+  height: 30px;
+  margin-top: 5px;
+  color: #fff;
+  background-color: #aa0f0f;
+  border: none;
+}
+#esquerda{
+  width: 270px;
+  float: left;
+  margin: 0 0 20px 195px;
+}
+/*Brasil*/
+body.brasil #esquerda{
+  margin-top: 10px;
+}
+body.brasil #esquerda h4{
+  display: inline-block;
+}
+.brasilConteudo{
+  width: 539px;
+  display: flex;
+}
+.brasilConteudo img{
+  width: 260px;
+}
+.brasilFlex{
+  flex-grow: 1;
+}
+#listaNoticiasBrasil{
+  width: 539px;
+}
+/*Internacional*/
+body.internacional #esquerda{
+  width: 750px;
+  margin: 0 0 20px 0px;
+}
+body.internacional main h1{
+  display: inline;
+  color: white;
+  background: #d71919;
+  padding: 3px;
+}
+body.internacional article{ 
+  display: flex;
+}
+body.internacional h4{
+  display: inline-block;
+  margin-bottom: 7px;
+}
+.descricaoInter{
+  margin-left: 10px;
+  line-height: 23px;
+}
+.descricaoInter a{
+  font-weight: bold;
+  color: #aa0f0f;
+}
+/*Entrevista*/
+body.entrevista #esquerda{
+  width: 750px;
+  margin: 0 0 20px 0px;
+}
+body.entrevista article h2{
+  text-align: center;
+  color: white;
+  background: #d71919;
+  padding: 3px; 
+}
+body.entrevista span{
+  color: gray;
+  font-weight: bold;
+  font-size: 15px;
+}
+body.entrevista p{
+  margin-top: 7px;
+}
+body.entrevista article img{
+ width: 300px;
+ margin-right: 7px;
+ float: left;
+}
+#linkNavFoot{
+  text-align: center;
+  font-weight: bold;
+  line-height: 5px;
+}
+#linkNavFoot a{
+  padding-bottom: 3px;
+  color: #d71919;
+  text-decoration: none;
+}
+#linkNavFoot a:hover{
+  font-size: 20px;
+}
+/*CONTEUDO*//*direita*/
+#direita{
+  width: 270px;
+  float: left;
+  margin: 0 0 20px 15px;
+}
+/*CONTEUDO*//*rodape*/
+footer{
+  background: #d71919;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
