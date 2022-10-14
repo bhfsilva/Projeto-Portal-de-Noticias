@@ -1,6 +1,4 @@
-<div align="center">
-  <h1 align="left" >Projeto portal de notícias da cidade de São Paulo.</h1>
-</div>
+<h1 align="left" >Projeto portal de notícias da cidade de São Paulo.</h1>
 
 <h3>📝 Sobre o projeto</h3>
 
