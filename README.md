@@ -7,7 +7,7 @@
 * Projeto realizado durante o curso <strong>Desenvolvimento Web Completo 2022</strong> da plataforma de cursos online <strong>Udemy</strong>;
 * Trata-se de um escopo de portal de notícias sobre a cidade de São Paulo.
 
-<img align="right" width="250" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
+<img align="right" width="150" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
 
 <h3>👥 Colaboradores</h3> 
 
