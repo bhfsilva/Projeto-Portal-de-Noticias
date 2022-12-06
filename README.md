@@ -1,6 +1,6 @@
 # Projeto portal de notícias da cidade de São Paulo
 
-![badge em desenvolvimento](https://user-images.githubusercontent.com/101880543/205789336-51c0f589-30bf-4151-b082-f135ada7dd6f.png)
+<img width="200" src="https://user-images.githubusercontent.com/101880543/205789336-51c0f589-30bf-4151-b082-f135ada7dd6f.png"></img>
 
 ### 📝 Sobre o projeto
 
@@ -8,7 +8,7 @@
 * Trata-se de um escopo de portal de notícias sobre a cidade de São Paulo;
 * <strong>Tecnologias usadas</strong>: `🟧 HTML` `🟦 CSS`.
 
-<img align="right" width="200" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
+<img align="right" width="150" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
 
 ### 👥 Colaboradores
 
