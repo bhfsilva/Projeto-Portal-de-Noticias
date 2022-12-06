@@ -1,17 +1,22 @@
-<h1 align="left" >Projeto portal de notícias da cidade de São Paulo.</h1>
+# Projeto portal de notícias da cidade de São Paulo
 
-<h3>📝 Sobre o projeto</h3>
+![badge em desenvolvimento](https://user-images.githubusercontent.com/101880543/205789336-51c0f589-30bf-4151-b082-f135ada7dd6f.png)
+
+### 📝 Sobre o projeto
 
 * Projeto realizado durante o curso <strong>Desenvolvimento Web Completo 2022</strong> da plataforma de cursos online <strong>Udemy</strong>;
-* Trata-se de um escopo de portal de notícias sobre a cidade de São Paulo.
+* Trata-se de um escopo de portal de notícias sobre a cidade de São Paulo;
+* <strong>Tecnologias usadas</strong>: `🟧 HTML` `🟦 CSS`.
 
-<img align="right" width="150" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
+<img align="right" width="200" src="https://media.discordapp.net/attachments/1012493604599631875/1030256994600358001/bandeiraSPGIF.gif">
 
-<h3>👥 Colaboradores</h3> 
+### 👥 Colaboradores
 
 * Jamilton Damasceno (professor da plataforma);
 * Bruno Henrique.
 
-<h3>🛎 Considerações</h3>
+### 🛎 Considerações 
 
 * Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
+
+## 🔗 Acesse em: <a href="https://bhs1lva.github.io/Projeto-Portal-de-Noticias/">Portal SP</a>
