@@ -1,6 +1,6 @@
 # Projeto portal de notícias da cidade de São Paulo
 
-<img width="200" src="https://user-images.githubusercontent.com/101880543/205789336-51c0f589-30bf-4151-b082-f135ada7dd6f.png"></img>
+<img width="200" src="https://github.com/bhS1lva/Projeto-Portal-de-Noticias/assets/101880543/e927f461-4eab-412e-a6dd-92e7c012d31b"></img>
 
 ### 📝 Sobre o projeto
 
@@ -12,7 +12,7 @@
 
 ### 👥 Colaboradores
 
-* Jamilton Damasceno (professor da plataforma);
+* Jamilton Damasceno (professor da plataforma Udemy);
 * Bruno Henrique.
 
 ### 🛎 Considerações 
