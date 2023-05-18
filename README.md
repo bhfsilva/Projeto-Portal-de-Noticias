@@ -1,6 +1,6 @@
 # Projeto portal de notícias da cidade de São Paulo
 
-<img width="200" src="https://github.com/bhS1lva/Projeto-Portal-de-Noticias/assets/101880543/e927f461-4eab-412e-a6dd-92e7c012d31b"></img>
+![badge encerrado](https://github.com/bhS1lva/Projeto-Portal-de-Noticias/assets/101880543/3579ccf2-a5c2-4d12-a3d0-1354f8aba233)
 
 ### 📝 Sobre o projeto
 
