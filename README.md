@@ -17,6 +17,6 @@
 
 ### 🛎 Considerações 
 
-* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
+* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, abra uma issue ou entre em contato.
 
 ### 🔗 Acesse em: <a href="https://bhfsilva.github.io/Projeto-Portal-de-Noticias/">Portal SP</a>
